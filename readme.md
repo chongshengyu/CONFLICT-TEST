@@ -3,3 +3,5 @@ line two remote
 line three remote
 line three master local
 yy
+
+line two new branch 222
